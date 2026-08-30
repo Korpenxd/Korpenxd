@@ -5,20 +5,11 @@
 
 <div align="center">
 
-<!--
-Optional custom banner later:
-<img src="./assets/birdbrain-banner.gif" width="100%" alt="Adam Ström / Birdbrain IT banner" />
--->
+
+<img src="./assets/birdbrain-banner.png" width="100%" alt="Adam Ström / Birdbrain IT banner" />
+
 
 <br>
-
-<img
-  src="https://github.com/Korpenxd.png"
-  width="150"
-  height="150"
-  alt="Adam Ström"
-  style="border-radius: 50%;"
-/>
 
 # Hey, I'm Adam 👋
 
