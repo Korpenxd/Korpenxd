@@ -42,11 +42,11 @@ I build websites, tools and occasionally projects that become
   <img src="https://img.shields.io/badge/Birdbrain.it-Visit_Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Birdbrain IT" />
 </a>
 &nbsp;
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/adamstrom-it/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL_ADDRESS">
+<a href="mailto:adam@birdbrain.it">
   <img src="https://img.shields.io/badge/Email-Say_Hello-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
@@ -69,9 +69,13 @@ Alongside client websites, I also have a habit of turning small problems into un
 - ⚡ Interested in performance, accessibility and technical SEO
 - 🎨 Enjoy combining development with UI/UX design
 - 🛠️ I like turning repetitive tasks into useful tools
-- 🖥️ Also interested in practical IT and technical support
 - 🧠 Currently diving deeper into application architecture and Rust
+- 🖥️ Desktop application development with Tauri
+- 🔐 Local-first application architecture
+- ☁️ Reliable cross-device synchronisation
+- 🤖 AI-assisted development workflows
 - 🐦 Ravens may be slightly overrepresented in my branding
+
 
 <br>
 
