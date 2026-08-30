@@ -215,12 +215,11 @@ A photography portfolio website created for a client, with a strong focus on let
 - Contact integration
 - SEO and performance work
 
-<!--
-Add these once available:
 
-🔗 [Live website](YOUR_PIXELMAGI_URL)
-💻 [Repository](YOUR_PIXELMAGI_REPO_URL)
--->
+
+🔗 **[Visit Pixelmagi](https://pixelmagi.vercel.app/)**
+💻 [Repository](https://github.com/Korpenxd/Pixelmagi-v2)
+
 
 <br>
 
