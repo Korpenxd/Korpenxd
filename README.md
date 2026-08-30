@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Korpenxd/Korpenxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/profile.png" width="140" alt="Adam Ström" />
 
-Here are some ideas to get you started:
+# Adam Ström
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Web Developer · UI/UX · IT Support
+
+Building fast, accessible and slightly over-engineered things for the web.
+
+🐦‍⬛ Founder of **Birdbrain IT**
+
+[![Website](https://img.shields.io/badge/Website-birdbrain.it-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://birdbrain.it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_Ström-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+
+</div>
